@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Blood Test Checker</string>
+    <string name="error_field_required" translatable="true">This field is required</string>
+    <string name="error_must_be_a_number" translatable="true">Must be a number</string>
+    <string name="error_more_than_one" translatable="true">More than one type of tests found, please refine</string>
+
+    <string name="your_evaluation_for" translatable="true">"Your evaluation for "</string>
+
+    <string name="hdl_dict" translatable="false">hdl</string>
+    <string name="ldl_dict" translatable="false">ldl</string>
+    <string name="submit_blood_test_results">Submit blood test results</string>
+    <string name="test_name">Test Name</string>
+    <string name="result">Result</string>
+    <string name="am_i_ok">Am I OK?</string>
+    <string name="reset">Reset</string>
+
+    <!--
+        <string-array
+            name="hdl_dict">
+            <item>hdl</item>
+        </string-array>
+
+        <string-array
+            name="ldl_dict">
+            <item>hdl</item>
+        </string-array>
+
+        <string-array
+            name="a1c_dict">
+            <item>a1c</item>
+            <item>hm</item>
+            <item>hemoglobin</item>
+            <item>hemglobin</item>
+            <item>hemiglobin</item>
+            <item>hemoglibin</item>
+            <item>hemoglebin</item>
+        </string-array>
+    -->
+    <!--h[e|i]?[m|n][o]?gl[o|i]?b[e|i]?[m|n]-->
+</resources>
