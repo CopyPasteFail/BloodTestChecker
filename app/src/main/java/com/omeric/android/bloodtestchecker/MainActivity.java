@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity
     private static final String TAG_LDL = "LDL Cholesterol";
     private static final String TAG_A1C = "A1C";
 
-    private static final String JSON_CONFIG_URL = "https://";
+    private static final String JSON_CONFIG_URL = "https://raw.githubusercontent.com/GipsyBeggar/BloodTestChecker/master/Configs/bloodTestConfig.json";
 
     // default values in case JSON parsing fails
     private int mHdlThreshold = 60;
