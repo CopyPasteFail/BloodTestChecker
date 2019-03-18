@@ -29,7 +29,7 @@ import java.util.regex.Pattern;
 
 public class MainActivity extends AppCompatActivity
 {
-    private static final String TAG = "omerD:MainActivity";
+    private static final String TAG = "gipsy:MainActivity";
 
     // JSON Node names
     private static final String TAG_THRESHOLDS = "bloodTestConfig";
